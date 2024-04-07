@@ -34,6 +34,17 @@ Each category has different items.
 1. see all items
 2. add item to cart
 3. remove item from cart
-4. see their profile
-5. Generate Bill
-   
+4. Display Cart Items
+5. see their profile
+6. Generate Bill
+
+# User Account Information
+
+# SignUp Information
+First user will signup provide their information.
+1. Account Number
+2. Name
+3. Email
+
+# Login Information
+Login using Account Number and Email.
